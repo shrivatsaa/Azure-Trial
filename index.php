@@ -9,8 +9,8 @@
 		// Define database connection variables
 		$servername = "mysqldb-pgpcc.mysql.database.azure.com";
 		$username = "svenkata";
-		$password = "AnuVatsaa@8489";
-		$dbname = "pgpcc-db";
+		$password = "AnuVatsaa8489";
+		$dbname = "pgpccsep24";
 
 		// Create database connection
 		$conn = new mysqli($servername, $username, $password, $dbname);
